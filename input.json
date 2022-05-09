@@ -1,0 +1,12 @@
+{
+  "full name": "shirisha jujare",
+  "address": {
+    "street": "23505 Stewart Track",
+    "city": "Bellary"
+  },
+  "ids":{
+    "PAN":"AMJXH1456H",
+    "adhaar":"8889 8856 3338 2234",
+    "employee ids":["123","234","567"]
+  }
+}
