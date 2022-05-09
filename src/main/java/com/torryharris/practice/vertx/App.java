@@ -16,7 +16,7 @@ public class App {
     JSONParser parser=new JSONParser();
     try{
       Object obj=parser.parse(new FileReader("input.json"));
-      System.out.println(obj);
+     // System.out.println(obj);
       JSONObject json=(JSONObject) obj;
       String firstname=(String)json.get("full name");
       System.out.println("fullname:" +firstname);
@@ -44,6 +44,6 @@ public class App {
   }
 
   public static void main(String args[]){
-
+Input();
   }
 }
